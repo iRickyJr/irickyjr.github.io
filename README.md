@@ -7,8 +7,6 @@ rickypenajr.github.io</p>
 <p>Thank You.</p>
 ----------------------------------------------------------------->
 
-
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
