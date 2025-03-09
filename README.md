@@ -14,16 +14,6 @@ rickypenajr.github.io</p>
 <html>
 <head>
   <meta charset="utf-8">
-  <title>RickyPenaJr</title>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #c9d1d9;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 2rem;
-    }
-  </style>
 </head>
 <body>
   <h1>iRickyJr has changed to RickyPenaJr</h1>
